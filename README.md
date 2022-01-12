@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-##### Just trying to be cool 😎
-
 <!--
 **devinekadeni/devinekadeni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
